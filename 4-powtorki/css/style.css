@@ -1,0 +1,21 @@
+.offer {
+    display: flex;
+    width: 85%;
+    margin: 30px auto;
+    padding: 35px;
+    border-bottom: 1px solid #ccc;
+}
+
+.offer__image {
+    flex: 1 1 25%;
+    margin: 0;
+    padding: 0 20px;
+}
+
+.offer_description {
+    flex: 1 1 75%;
+}
+
+.offer_image img {
+    max-width: 100%;
+}
